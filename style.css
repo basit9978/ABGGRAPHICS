@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+ }
+ .empty{
+   background-color: #333;
+   height: 1vh;
+   margin-bottom: 1px;
+ }
+ .main{
+     display: flex;
+     text-decoration: none;
+     flex-direction: row;
+     text-align: center;
+     justify-content: center;
+     padding-top: 1vh;
+     background-color:#333;
+
+ }
+/*header*/
+ .comp{
+    
+     width: 20vw;
+
+     text-align: center;
+     
+     font-family: fantasy;
+     font-size:2.3vw;
+     color:bisque;
+   
+     
+ }
+ .home{
+     justify-content: flex-end;
+     width: 50vw;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     text-decoration: none;
+     font-size: 1.7vw;
+     
+     color: white;
+ }
+ .inp{
+     width: 30vw;
+
+ }
+ input{
+     padding-right: 10vh;
+     padding: 5px;
+     width: 25vw;
+     text-align: center;
+    border-radius: 5vw;
+     font-size: 1vw;
+     outline: 0px;
+     border: 0px;
+ }
+ 
+
+ /*header*/
+
+ /*section 1*/
+ .intro{
+     margin-top: 10px;
+    /* height: 380px;*/
+     background-color: #333;
+     display: flex;
+ }
+ .into{
+width: 50vw;
+display: flex;
+flex-direction: column;
+text-align: center;
+justify-content: center;
+/*padding-top: 10vh;
+padding-bottom: 10vh;*/
+
+ }
+ .welcome{
+     font-size: 4vw;
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     
+     color: bisque;
+    
+
+ }
+ .desc{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 1.3vw;
+     margin-bottom: 1vw;
+     color: white;
+ }
+ .learn{
+background-color: white;
+padding-top: 0.5vw ;
+padding-bottom: 0.5vw ;
+padding-left: 1.5vw ;
+padding-right: 1.5vw ;
+border-radius: 5vh;
+margin: 2vw;
+font-size:1.5vw ;
+
+ }
+ .leran-more{
+    text-decoration: none;
+    color: #037272;
+    margin-top: 1vh;
+ }
+ .img{
+     width: 50vw;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     padding-left: 4vw; 
+    }
+
+
+ /*section 1*/
+
+
+
+
+
+
+
+ /*section 2*/
+ .cap{
+    margin-top: 10px;
+    display: flex;
+ }
+ .div1{
+    width: 50vw;
+ }
+ 
+ .div2{
+    width: 50vw;
+ }
+ .edu{
+    text-align: center;
+    font-size: 2vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 1vw;
+
+ }
+ .imga{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vw;
+ }
+ .skills{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2vw;
+    margin-top: 1vw;
+
+ }
+ .imge{
+    display: flex;
+    justify-content: center;
+    align-items: center;    margin-top: 2vw;
+
+ }
+ .decscription{
+    font-size: 1.5vw;
+ }
+ /*section 2*/
+ footer {
+   background: #333;
+   color: #fff;
+   text-align: center;
+   padding: 3vh;
+   margin-top: 50px;
+   font-size: 1.5vw;
+}
+
+
+ 
